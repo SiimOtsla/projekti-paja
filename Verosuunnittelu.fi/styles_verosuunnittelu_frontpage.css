@@ -1,0 +1,49 @@
+.page {
+	height: auto;
+	width: auto;
+	background-color: blue;
+}
+.navigation {
+	height: 10%;
+	width: auto;
+	background-color: lime;
+	position: relative;
+	
+}
+ul {
+	list-style-type: none;
+}
+
+li {
+  display: inline;
+}
+.header {
+	height: 20%;
+	width: auto;
+	background-color: lightblue;
+	position: relative;
+}
+.NavBlock {
+	height: 27%;
+	width: auto;
+	background-color: red;
+	position: relative;
+}
+.container {
+	height: 30%;
+	width: auto;
+	background-color: pink;
+	position: relative;
+}
+
+.OtaYhteytta {
+	height: 7%;
+	width: auto;
+	background-color: green;
+	position: relative;
+}
+.footer {
+	height: 5%;
+	width: auto;
+	background-color: yellow;
+	position: relative;
